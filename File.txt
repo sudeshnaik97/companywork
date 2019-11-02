@@ -1,2 +1,7 @@
-class customer{
+class employee{
+
+int empid;
+
+
+
 }
