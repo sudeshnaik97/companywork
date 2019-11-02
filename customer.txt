@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 HI How are you!!!
-=======
 hi bro!!!
->>>>>>> br1
